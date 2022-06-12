@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for Cloud-DevOps Learning</h1>
-    <p>Please fill in this form to Test Deployment.</p>
+    <p>Please fill in this form to Test Docker Deployment.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
